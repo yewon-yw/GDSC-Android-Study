@@ -106,9 +106,7 @@
 2. theme
     - style, layout, widget 등으로 참조할 수 있는 명명된 resource 모음을 정의
     - theme는 colorPrimary와 같은 symentic 이름을 Android resource에 할당
-<br>
 - [참고](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
-
 
 <br>
 
