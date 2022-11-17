@@ -61,6 +61,7 @@
   - 글이 길어 한줄이 넘어갈 경우 문자열의 맨 뒤에 '...' 표시
   - true/false 설정 가능, default는 false
 - 자주 사용하는 View, TextView 클래스의 XML 속성과 메소드
+  <br>
   ![image](https://user-images.githubusercontent.com/101886039/202501189-eb680553-8170-478e-ba85-ca9012eeb956.png)
 
 <br>
